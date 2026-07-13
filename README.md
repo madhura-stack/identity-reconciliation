@@ -284,6 +284,9 @@ The API was tested using **Postman**.
 ## Version 1.1.0
 
 - Improved documentation
+## Version 2.0.0
+
+- Prepared application for Kubernetes deployment
 
 # 👩‍💻 Author
 
