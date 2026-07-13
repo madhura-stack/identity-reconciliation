@@ -89,7 +89,7 @@ Before running the project, make sure you have installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/identity-reconciliation.git
+git clone https://github.com/madhura-stack/identity-reconciliation.git
 ```
 
 ## 2. Navigate to the Project
