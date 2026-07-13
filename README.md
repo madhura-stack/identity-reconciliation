@@ -281,6 +281,9 @@ The API was tested using **Postman**.
 * Logging with Winston
 
 ---
+## Version 1.1.0
+
+- Improved documentation
 
 # 👩‍💻 Author
 
