@@ -286,8 +286,23 @@ The API was tested using **Postman**.
 - Improved documentation
 ## Version 2.0.0
 
-- Prepared application for Kubernetes deployment
+```text
 
+- Prepared application for Kubernetes deployment
+screenshots/
+│
+├── postman.png
+├── postgres.png
+├── docker-ps.png
+├── docker-images.png
+├── kubernetes-pods.png
+├── deployment.png
+├── service.png
+├── ingress.png
+├── hpa.png
+├── github-actions.png
+└── github-repo.png
+```
 # 👩‍💻 Author
 
 **madhura-stack**
